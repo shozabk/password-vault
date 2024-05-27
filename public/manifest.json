@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hexaa PassBolt",
+  "version": "1.0.0",
+  "description": "A basic example extension to manage credentials of THE HEXAA",
+  "icons": {
+    "48": "/icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
